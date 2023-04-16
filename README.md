@@ -1,4 +1,4 @@
-# Platzi-Curso-Practico-Javascript
+# Curso-Practico-Javascript
 
 ...
 
